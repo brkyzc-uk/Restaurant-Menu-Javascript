@@ -34,7 +34,7 @@
     height: 175px;
     object-fit: cover;
     border: 0.25rem solid black;
-    border-radius: 10px;
+    border-radius: 15px;
   }
   .menu-items {
     display: flex;
